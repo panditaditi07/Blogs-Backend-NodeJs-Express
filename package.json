@@ -1,0 +1,15 @@
+{
+  "name": "blog-backend-nodejs",
+  "version": "1.0.0",
+  "description": "get all the blogs data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-prettify": "^0.1.1"
+  }
+}
